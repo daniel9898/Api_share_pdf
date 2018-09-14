@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_680ce6a345e4679ac966a1c116ed9e6a08f8f245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_91ab67f7228551e38cd29d5144f1e30a03bac4d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_c2739b7d22fa159337d8f8c2b1dc31ebc7d4d1f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_194857256e13daf065cdf0a64620865ce3da3a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_425e58efac7e1bb784d1783647ae59fd665fe2b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_8550ff7672b657e665a1f3cd0e626a9b007465ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_574ca33d49d6acfbe74dd4a4a56af8763e6dd0cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_ca33ceb27a42c2111a7ca3584ced06bdedf16de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e7d864705f2563dab21ec3b6ee270a7df758352d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_aaba0f272796d6185cd18d9bae2a8cdf4510c09a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_dffc2aa49116151d2b6759fb61f269728b900e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_6f2a1deafd1cc997754efb7af88da75c4f6baea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_c5c1c1eaa9ced6a6d4a418861d9a0e02967b5078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_79d2f3b006ffbe29ac21348972d88fb187331aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_4bb1598f1e25bac4ee47606ecc76c3057162f239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\HtmltoPdfExample\react-native-html-to-pdf\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4bc615964e9582b806a8603e6dd0eb36048d684c">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\HtmltoPdfExample-react-native-html-to-pdf-unspecified_e84d67dc51452e0b0101926a16c15179bc8454c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0049067652861da6db1135e885200ed8eb1fc3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_550bdae630f1149ea2e24c4c2a55988816889576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_1bfd8ffd88564f7c941c0e9fa9c7e4c59d2da94a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_8ef518ca6e09131181d46b28396890289cf710f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_9e480a9a72db0557e661295ef93a8cd6770fee52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_b42e34f82ca0a50ff3319ea3950558fcdd15dc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_2c9f610877e55fda19bcd1b7038e365f85c5560a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_342f967d91c75e6e76aa81f65b930f1d68b441aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_cce0dd7dc12bdfaeb8da0dde21ba86b978a6d8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_f6369538bc36e05828ec26c66bf0af1c7e37bcad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_72d47b949b7b00a28df60968e92c4a9e9c94cce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_3fb0bba810ee12c9f87cf6411c007c4dc10c438c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_04c558d4cec592bee7648311bb2a85d5f5354f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a729045a5e53740a2e648c205a9a256c35191b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\react\sandbox\HtmltoPdfExample\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_f73dcd67a386dc6128f470b72fc152c2f738498a.jar" />
+    </item>
+
+</items>
