@@ -8,16 +8,20 @@ import {
   Image,
   PermissionsAndroid,
   ActivityIndicator,
+  Share
 } from 'react-native';
 import RNHTMLtoPDF from 'react-native-html-to-pdf';
+
 export default class Example extends Component {
   state = {
       isPermitted: false,
       filePath: ''
     };
+
   constructor(props) {
     super(props);
     var that = this;
+
     async function requestExternalWritePermission() {
       try {
         const granted = await PermissionsAndroid.request(
@@ -43,11 +47,29 @@ export default class Example extends Component {
     //Calling the External Write permission function
     requestExternalWritePermission();
   }
+
   async createPDF() {
+
+    let arr = ['carlos','jorge','maria'];
+    let lista = `<ul>`;
+    for(let a of arr){
+      lista += `<li>${a}</li>`;
+    }
+
+    lista += `</ul>`;
+
     let options = {
       //Content to print
       html:
-        '<h1 style="text-align: center;"><strong>Hello Guys</strong></h1><p style="text-align: center;">Here is an example of pdf Print in React Native</p><p style="text-align: center;"><strong>Team About React</strong></p>',
+        `<h1 style="text-align: center;">
+          <strong>PRUEBA PDF CON VARIABLES</strong>
+        </h1>
+        <p style="text-align: center;">Here is an example of pdf Print in React Native</p>
+        <p style="text-align: center;">
+          <strong>Team About React</strong>
+        </p><br>
+        ${lista}
+        <img src="https://www.minutoneuquen.com/u/fotografias/m/2019/7/24/f800x450-138941_190387_0.jpg" alt="Smiley face" height="200" width="200">`,
       //File Name
       fileName: 'test',
       //File directory
@@ -57,6 +79,30 @@ export default class Example extends Component {
     console.log(file.filePath);
     this.setState({filePath:file.filePath});
   }
+
+  onShare = async () => {
+    try {
+      console.log(this.state.filePath)
+      const result = await Share.share({
+        message: 'PROBANDO COMPARTIR PDF',
+        url: this.state.filePath
+        //url: 'https://stackoverflow.com/questions/45608649/share-file-with-react-native'
+      });
+
+      if (result.action === Share.sharedAction) {
+        if (result.activityType) {
+          // shared with activity type of result.activityType
+        } else {
+          // shared
+        }
+      } else if (result.action === Share.dismissedAction) {
+        // dismissed
+      }
+    } catch (error) {
+      alert(error.message);
+    }
+  };
+
   render() {
     if (this.state.isPermitted) {
       return (
@@ -76,6 +122,11 @@ export default class Example extends Component {
             <Text style={styles.text}>Create PDF</Text>
             </View>
           </TouchableOpacity>
+
+          <TouchableOpacity onPress={this.onShare.bind(this)}>
+            <Text style={styles.text}>Compartir</Text>
+          </TouchableOpacity>
+
           <Text style={styles.text}>{this.state.filePath}</Text>
         </View>
       );
