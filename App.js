@@ -80,7 +80,7 @@ export default class Example extends Component {
     this.setState({filePath:file.filePath});
   }
 
-  onShare = async () => {
+  onShare = async () => { //test
     try {
       console.log(this.state.filePath)
       const result = await Share.share({
